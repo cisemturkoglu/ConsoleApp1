@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{F39EA321-FBE4-46DA-BC4A-0A70FF1FF3E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeriTipleri", "ConsoleApp2\VeriTipleri.csproj", "{A8B3AAE1-750F-43E7-A0B9-C28C0A25DAE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeriTipleri1", "VeriTipleri1\VeriTipleri1.csproj", "{044310CF-C40C-418E-93E1-1A2C142608D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperatörlereGiris", "OperatörlereGiris\OperatörlereGiris.csproj", "{FE3A59D5-CDD8-40D7-84D8-E01B4CF96487}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KullanıcıdanDegerAlma", "KullanıcıdanDegerAlma\KullanıcıdanDegerAlma.csproj", "{8FFDA7B6-9212-43C0-A696-81006B5C19B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TurDonusumu", "TurDonusumu\TurDonusumu.csproj", "{9A3B37C7-149C-4F79-832E-7901965E01C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F39EA321-FBE4-46DA-BC4A-0A70FF1FF3E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F39EA321-FBE4-46DA-BC4A-0A70FF1FF3E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F39EA321-FBE4-46DA-BC4A-0A70FF1FF3E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F39EA321-FBE4-46DA-BC4A-0A70FF1FF3E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8B3AAE1-750F-43E7-A0B9-C28C0A25DAE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8B3AAE1-750F-43E7-A0B9-C28C0A25DAE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8B3AAE1-750F-43E7-A0B9-C28C0A25DAE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8B3AAE1-750F-43E7-A0B9-C28C0A25DAE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{044310CF-C40C-418E-93E1-1A2C142608D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{044310CF-C40C-418E-93E1-1A2C142608D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{044310CF-C40C-418E-93E1-1A2C142608D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{044310CF-C40C-418E-93E1-1A2C142608D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE3A59D5-CDD8-40D7-84D8-E01B4CF96487}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE3A59D5-CDD8-40D7-84D8-E01B4CF96487}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE3A59D5-CDD8-40D7-84D8-E01B4CF96487}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE3A59D5-CDD8-40D7-84D8-E01B4CF96487}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FFDA7B6-9212-43C0-A696-81006B5C19B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FFDA7B6-9212-43C0-A696-81006B5C19B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FFDA7B6-9212-43C0-A696-81006B5C19B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FFDA7B6-9212-43C0-A696-81006B5C19B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A3B37C7-149C-4F79-832E-7901965E01C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A3B37C7-149C-4F79-832E-7901965E01C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A3B37C7-149C-4F79-832E-7901965E01C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A3B37C7-149C-4F79-832E-7901965E01C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB81CD9D-8AE5-40C6-9059-94116E129E57}
+	EndGlobalSection
+EndGlobal
